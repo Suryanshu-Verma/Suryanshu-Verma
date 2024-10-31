@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Polars, selenium**
 
-- 👨‍💻 All of my projects are available at [suryanshuverma.me](suryanshuverma.me)
+- 👨‍💻 All of my projects are available at [suryanshuverma.me](https://suryanshuverma.me/)
 
 - 💬 Ask me about **Pandas, NumPy, Matplotlib, Seaborn**
 
