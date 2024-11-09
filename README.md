@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHb--PSEEiVXg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702056745679?e=1735776000&v=beta&t=EQnyE2AAXeKYmMk5lk3w72oKaUfb-sG3toR5LgK-Et8)](https://Suryanshu-Verma.io)
 <h1 align="center">Hi 👋, I'm Suryanshu Verma</h1>
 <h3 align="center">Ex-Intern @ IBM || MySQL || Data Analysis || Machine Learning || Freelance Video Editor</h3>
 <img align="right" alt="Coding width="400" src="https://gist.githubusercontent.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
