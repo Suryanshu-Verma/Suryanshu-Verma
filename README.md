@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryanshu-verma" alt="suryanshu-verma" /></a> </p>
 
-- 🌱 I’m currently learning **Polars, selenium**
+- 🌱 I’m currently learning **Streamlit, BeautifulSoup**
 
 - 👨‍💻 All of my projects are available at [suryanshuverma.me](https://suryanshuverma.me/)
 
